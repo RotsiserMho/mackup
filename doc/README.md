@@ -9,17 +9,6 @@ To configure Mackup, create a file named ´.mackup.cfg´ in your home directory.
 vi ~/.mackup.cfg
 ```
 
-Add personal files to sync by including the `configuration_files` header, e.g.
-
-```ini
-[configuration_files]
-.gitignore_global
-.config/your-custom-file
-```
-
-Note that Mackup assumes the file paths listed here are relative to your home
-directory.
-
 ## Storage
 
 ### Dropbox
@@ -162,11 +151,11 @@ You can customize the Mackup engine and add support for unsupported
 applications or just custom files and directories you'd like to sync.
 
 Let's say that you'd like to add support for Nethack (config file:
-`.nethackrc`) and for the `bin` and `.hidden` directories you keep in your
-home.
+`.nethackrc`), for the `bin` and `.hidden` directories and for the
+`.gitignore` file you keep in your home.
 
 In your home, create a `.mackup` directory and add a config file for the
-application you'd like to support.
+application you'd like to support:
 
 ```bash
 mkdir ~/.mackup
@@ -174,7 +163,7 @@ touch ~/.mackup/nethack.cfg
 touch ~/.mackup/my-files.cfg
 ```
 
-Edit those files
+Edit those files:
 
 ```bash
 $ cat ~/.mackup/nethack.cfg
@@ -193,9 +182,13 @@ name = My personal synced files and dirs
 [configuration_files]
 bin
 .hidden
+.gitignore
 ```
 
-You can run mackup to see if they are listed
+Note that Mackup assumes the file paths listed here are relative to your home
+directory.
+
+You can run mackup to see if they are listed:
 
 ```bash
 $ mackup list
