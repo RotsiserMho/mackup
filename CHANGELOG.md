@@ -2,6 +2,7 @@
 
 ## WIP
 
+- Add support for iTerm (via @Sbastien)
 - Add support for Boxer (via @icopp)
 - Fix support for BetterTouchTool (via @pearlythepirate, @TheSavior, @RotsiserMho)
 
