@@ -169,6 +169,7 @@ See the [README](doc/README.md) file in the doc directory for more info.
 - [Arara](https://github.com/cereda/arara)
 - [aria2c](http://aria2.sourceforge.net/)
 - [Arm](https://www.atagar.com/arm/)
+- [Arq 4](https://www.arqbackup.com)
 - [Artistic Style](http://astyle.sourceforge.net)
 - [asciinema](https://asciinema.org/)
 - [Aspell](http://aspell.net/)
