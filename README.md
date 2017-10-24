@@ -400,6 +400,7 @@ See the [README](doc/README.md) file in the doc directory for more info.
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [PyPI](https://pypi.python.org/pypi)
 - [PyRadio](http://www.coderholic.com/pyradio/)
+- [Qt Creator](http://doc.qt.io/qtcreator/)
 - [Querious](http://www.araelium.com/querious/)
 - [Quicksilver](http://qsapp.com/)
 - [Qutebrowser](http://qutebrowser.org/)
