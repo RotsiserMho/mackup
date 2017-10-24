@@ -3,6 +3,7 @@
 ## WIP
 
 - Add support for Boxer (via @icopp)
+- Fix support for BetterTouchTool (via @pearlythepirate, @TheSavior, @RotsiserMho)
 
 ## Mackup 0.8.16
 
