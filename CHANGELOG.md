@@ -1,7 +1,7 @@
 # Mackup Changelog
 
 ## WIP
-
+- Fix support for BetterTouchTool (via @pearlythepirate, @TheSavior, @RotsiserMho)
 - Add support for iTerm (via @Sbastien)
 - Add support for Boxer (via @icopp)
 - Add support for GIMP (via @mateusrevoredo)
