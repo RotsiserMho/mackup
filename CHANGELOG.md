@@ -7,6 +7,7 @@
 - Add support for Boxer (via @icopp)
 - Add support for GIMP (via @mateusrevoredo)
 - Add support for Qt Creator (via @RotsiserMho)
+- Add support for SwitchResX (via @RotsiserMho)
 
 ## Mackup 0.8.16
 
