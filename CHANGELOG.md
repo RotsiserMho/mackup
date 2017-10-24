@@ -4,7 +4,6 @@
 
 - Add support for iTerm (via @Sbastien)
 - Add support for Boxer (via @icopp)
-- Fix support for BetterTouchTool (via @pearlythepirate, @TheSavior, @RotsiserMho)
 - Add support for GIMP (via @mateusrevoredo)
 
 ## Mackup 0.8.16
