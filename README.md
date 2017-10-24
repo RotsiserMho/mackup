@@ -518,9 +518,9 @@ We can [with your help](doc#get-official-support-for-an-application) ;)
 ## Personalization & configuration
 
 Have an application that shouldn't be generally supported but that you use?
-Or a cool file you want to sync?
+Or some personal files you want to sync, e.g. various config files in a `~/.config/`
+directory or your personal `~/.gitignore`?
 
-- Use a `~/.mackup.cfg` to [sync a single file](doc#configuration) (e.g. `~/.gitignore`)
 - Create a `~/.mackup` directory to [sync an application or any file or directory](doc#add-support-for-an-application-or-any-file-or-directory)
 
 ## Why did you do this
