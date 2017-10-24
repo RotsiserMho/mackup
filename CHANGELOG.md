@@ -6,6 +6,7 @@
 - Add support for iTerm (via @Sbastien)
 - Add support for Boxer (via @icopp)
 - Add support for GIMP (via @mateusrevoredo)
+- Add support for Qt Creator (via @RotsiserMho)
 
 ## Mackup 0.8.16
 
