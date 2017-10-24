@@ -297,6 +297,7 @@ See the [README](doc/README.md) file in the doc directory for more info.
 - [IPython](http://ipython.org/)
 - [Irssi](http://www.irssi.org/)
 - [iStat Menus 5](https://bjango.com/mac/istatmenus/)
+- [iTerm2](https://www.iterm2.com/)
 - [Janus](https://github.com/carlhuda/janus)
 - [jrnl](http://maebert.github.io/jrnl/)
 - [JSHint](http://jshint.com/)
@@ -519,9 +520,9 @@ We can [with your help](doc#get-official-support-for-an-application) ;)
 ## Personalization & configuration
 
 Have an application that shouldn't be generally supported but that you use?
-Or a cool file you want to sync?
+Or some personal files you want to sync, e.g. various config files in a `~/.config/`
+directory or your personal `~/.gitignore`?
 
-- Use a `~/.mackup.cfg` to [sync a single file](doc#configuration) (e.g. `~/.gitignore`)
 - Create a `~/.mackup` directory to [sync an application or any file or directory](doc#add-support-for-an-application-or-any-file-or-directory)
 
 ## Why did you do this
