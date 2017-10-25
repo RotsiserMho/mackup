@@ -2,6 +2,7 @@
 
 ## WIP
 - Fix support for BetterTouchTool (via @pearlythepirate, @TheSavior, @RotsiserMho)
+- Fix support for MusicBrainz Picard (via @RotsiserMho)
 - Add support for Arq 4 (via @RotsiserMho)
 - Add support for iTerm (via @Sbastien)
 - Add support for Boxer (via @icopp)
